@@ -23,7 +23,7 @@ plott_frekvenser: Compared the frequencies obtained from the Fourier analysis wi
 All experiments were conducted using a high-frequency camera, and the data was analyzed from various TSV files.
 
 ## Report
-An obligatory report was written by me and Jonathan. See "Laboratory Report (in Swedish)"
+An obligatory report was written by me and Jonathan. See "Laboratory Report (in Swedish)".
 
 ## Technologies and Tools
 
@@ -49,7 +49,7 @@ cd Computer-programming-and-numerical-analysis-9hp-
 Install dependencies:
 pip install -r requirements.txt
 
-###Usage
+### Usage
 Open Jupyter Notebook:
 jupyter notebook
 Navigate to the desired folder to explore projects.
