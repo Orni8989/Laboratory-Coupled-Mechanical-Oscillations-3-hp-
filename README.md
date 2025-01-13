@@ -1,5 +1,6 @@
 # Coupled Oscillations Lab
 Carl Örnberg and Jonathan Nguyen.
+Our grade was 5.0+/5.0
 
 This lab focuses on analyzing coupled oscillations. Advanced programming in python was used to analyze large data sets and perform numerical analysis algorithms such as Fast Fourier Transforms.
 
